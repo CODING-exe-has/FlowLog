@@ -38,6 +38,8 @@ Output:
 - Add crafting system
 ```
 
+![Terminal](images/c8fcbc52-9a6f-4604-b542-0d0cf397023b.png)
+
 ---
 
 ## Features
