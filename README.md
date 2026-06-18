@@ -38,10 +38,12 @@ Output:
 - Add crafting system
 ```
 
+#Terminal image
 <img width="476" height="517" alt="image" src="https://github.com/user-attachments/assets/c8fcbc52-9a6f-4604-b542-0d0cf397023b" />
 
-Or you can use the "flog" command that gets you into a dashboard
+Or you can use the "flog" command that gets you into a dashboard:
 
+#Dashboard image
 <img width="754" height="441" alt="image" src="https://github.com/user-attachments/assets/95fe516f-8794-411d-872d-976500999076" />
 
 
