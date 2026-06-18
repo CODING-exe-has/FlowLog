@@ -40,6 +40,11 @@ Output:
 
 ![Terminal](https://github.com/user-attachments/assets/c8fcbc52-9a6f-4604-b542-0d0cf397023b)
 
+Or you can use the "flog" command that gets you into a dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/95fe516f-8794-411d-872d-976500999076)
+
+
 ---
 
 ## Features
